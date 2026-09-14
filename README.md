@@ -2,7 +2,19 @@
 
 Aplikasi web untuk pengelolaan data barang inventaris lab komputer sekolah.
 
-**Pengembang:** [Nama Lengkap] — XII RPL [Kelas]
+**Pengembang:** I Gede Mahayana — XII RPL
+
+## Hero Section
+
+<img src="public\images\Hero-Section.png" alt="Hero Section">
+
+## About Section
+
+<img src="public\images\About-Section.png" alt="About Section">
+
+## Features Section
+
+<img src="public\images\Features-Section.png" alt="Features Section">
 
 ## Fitur
 
@@ -39,6 +51,6 @@ Terminal 2: npm run dev
 
 Akses: http://127.0.0.1:8000
 
-## Stack
+## Tech Stack
 
-Laravel 13, MySQL, Blade, Tailwind CSS v4, Vite, Dbingin, TablePlus
+Figma, Laravel 13, MySQL, Blade, Tailwind CSS v4, Vite, Dbingin, TablePlus
