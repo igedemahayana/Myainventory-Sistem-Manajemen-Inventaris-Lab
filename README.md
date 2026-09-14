@@ -6,15 +6,15 @@ Aplikasi web untuk pengelolaan data barang inventaris lab komputer sekolah.
 
 ## Hero Section
 
-<img src="public\images\Hero-Section.png" alt="Hero Section">
+<img src="./public/images/Hero-Section.png" alt="Hero Section">
 
 ## About Section
 
-<img src="public\images\About-Section.png" alt="About Section">
+<img src="./public/images/About-Section.png" alt="About Section">
 
 ## Features Section
 
-<img src="public\images\Features-Section.png" alt="Features Section">
+<img src="./public/images/Features-Section.png" alt="Features Section">
 
 ## Fitur
 
