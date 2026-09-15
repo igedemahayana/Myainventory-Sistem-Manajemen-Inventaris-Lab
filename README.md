@@ -16,11 +16,18 @@ Aplikasi web untuk pengelolaan data barang inventaris lab komputer sekolah.
 
 <img src="./public/images/Features-Section.png" alt="Features Section">
 
-## Fitur
+## Daftar barang (nama, spesifikasi, jumlah)
 
-- Daftar barang (nama, spesifikasi, jumlah)
-- Penambahan data barang
-- Pengubahan data barang
+<img src="./public/images/Daftar-Barang-Myainventory.png" alt="Features Section">
+
+## Penambahan data barang
+
+<img src="./public/images/Tambah-Data-Barang-Myainventory.png" alt="Features Section">
+
+## Pengubahan data barang
+
+<img src="./public/images/Edit-Data-Barang-Myainventory.png" alt="Features Section">
+
 - Penghapusan data barang dengan konfirmasi
 - Validasi formulir dan notifikasi aksi
 
